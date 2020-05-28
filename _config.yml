@@ -1,2 +1,4 @@
 name: Iomadh
 markdown: kramdown
+
+theme: jekyll-theme-minimal
