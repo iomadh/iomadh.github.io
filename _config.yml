@@ -2,3 +2,9 @@ name: Iomadh
 markdown: kramdown
 
 theme: jekyll-theme-minimal
+
+plugins:
+    - jekyll-feed
+title: iomadh’s blog
+description: Welcome to my blog
+author: iomadh    
